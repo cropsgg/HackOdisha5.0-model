@@ -1,7 +1,7 @@
 # T.A.R.A. - Terrain Analysis and Risk Assessment System
 
 <div align="center">
-  <img src="WhatsApp Image 2025-09-03 at 11.37.01.jpeg" alt="TARA Logo" width="400"/>
+  <img src="taralogo.jpeg" alt="TARA Logo" width="400"/>
   
   **Advanced Lunar Terrain Analysis and Rover Navigation System**
   
